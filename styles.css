@@ -1,0 +1,170 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #111827;
+    /* Dark Gray */
+    color: #F3F4F6;
+    /* Light Gray */
+}
+
+.guess-grid-cell {
+    transition: all 0.5s ease-in-out;
+    transform-style: preserve-3d;
+}
+
+.flipped .front {
+    transform: rotateY(180deg);
+}
+
+.flipped .back {
+    transform: rotateY(0deg);
+}
+
+.back {
+    transform: rotateY(-180deg);
+    backface-visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.front {
+    backface-visibility: hidden;
+}
+
+.correct {
+    background-color: #16A34A;
+    /* Green */
+}
+
+.incorrect {
+    background-color: #374151;
+    /* Gray */
+}
+
+.close {
+    background-color: #CA8A04;
+    /* Yellow */
+}
+
+/* Custom scrollbar for suggestions */
+#suggestions::-webkit-scrollbar {
+    width: 8px;
+}
+
+#suggestions::-webkit-scrollbar-track {
+    background: #1F2937;
+}
+
+#suggestions::-webkit-scrollbar-thumb {
+    background-color: #4B5563;
+    border-radius: 10px;
+    border: 2px solid #1F2937;
+}
+
+/* Mobile-specific improvements */
+@media (max-width: 640px) {
+
+    /* Improve touch targets */
+    #guess-button {
+        min-width: 70px;
+    }
+
+    /* Better spacing for small screens */
+    .guess-grid-cell {
+        min-height: 60px;
+    }
+
+    /* Ensure text doesn't overflow in cells */
+    .guess-grid-cell .front,
+    .guess-grid-cell .back {
+        word-break: break-word;
+        hyphens: auto;
+    }
+
+    /* Better modal sizing */
+    #modal-content {
+        margin: 1rem;
+        max-height: 90vh;
+        overflow-y: auto;
+    }
+
+    /* Improve suggestions on mobile */
+    #suggestions {
+        border-radius: 0 0 0.5rem 0.5rem;
+    }
+
+    #suggestions>div {
+        padding: 0.75rem 1rem;
+        border-bottom: 1px solid #374151;
+    }
+
+    #suggestions>div:last-child {
+        border-bottom: none;
+    }
+}
+
+/* Tablet improvements */
+@media (min-width: 641px) and (max-width: 1024px) {
+    .guess-grid-cell {
+        min-height: 70px;
+    }
+}
+
+/* Animation for guess counter */
+#guesses-left {
+    transition: all 0.3s ease-in-out;
+}
+
+#guesses-left.danger {
+    color: #EF4444;
+    animation: pulse 0.5s ease-in-out;
+}
+
+@keyframes pulse {
+
+    0%,
+    100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+}
+
+/* Loading state styles */
+.loading {
+    opacity: 0.6;
+    pointer-events: none;
+}
+
+/* Accessibility improvements */
+@media (prefers-reduced-motion: reduce) {
+
+    .guess-grid-cell,
+    #guesses-left,
+    #modal-content {
+        transition: none;
+        animation: none;
+    }
+
+    .flipped .front,
+    .flipped .back {
+        transform: none;
+    }
+}
+
+/* Focus styles for better keyboard navigation */
+button:focus,
+input:focus {
+    outline: 2px solid #10B981;
+    outline-offset: 2px;
+}
+
+#suggestions>div:focus {
+    background-color: #4B5563;
+    outline: 2px solid #10B981;
+    outline-offset: -2px;
+}
