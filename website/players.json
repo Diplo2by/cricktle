@@ -1,0 +1,4662 @@
+[
+  {
+    "name": "Wasim Akram",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 460,
+    "runs": 6615,
+    "wickets": 916,
+    "average": 22.64,
+    "era": "Classic"
+  },
+  {
+    "name": "JM Anderson",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 363,
+    "runs": 1455,
+    "wickets": 864,
+    "average": 9.68,
+    "era": "Modern"
+  },
+  {
+    "name": "N Kapil Dev",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 356,
+    "runs": 9031,
+    "wickets": 687,
+    "average": 31.05,
+    "era": "Classic"
+  },
+  {
+    "name": "SR Tendulkar",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 664,
+    "runs": 34357,
+    "wickets": 155,
+    "average": 53.78,
+    "era": "Modern"
+  },
+  {
+    "name": "Waqar Younis",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 349,
+    "runs": 1979,
+    "wickets": 789,
+    "average": 10.2,
+    "era": "Classic"
+  },
+  {
+    "name": "M Muralitharan",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 133,
+    "runs": 1261,
+    "wickets": 800,
+    "average": 11.67,
+    "era": "Modern"
+  },
+  {
+    "name": "DL Vettori",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 408,
+    "runs": 6784,
+    "wickets": 667,
+    "average": 30.0,
+    "era": "Modern"
+  },
+  {
+    "name": "SCJ Broad",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 312,
+    "runs": 3805,
+    "wickets": 719,
+    "average": 18.57,
+    "era": "Modern"
+  },
+  {
+    "name": "B Lee",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 322,
+    "runs": 2728,
+    "wickets": 718,
+    "average": 20.15,
+    "era": "Classic"
+  },
+  {
+    "name": "CA Walsh",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 337,
+    "runs": 1257,
+    "wickets": 746,
+    "average": 7.54,
+    "era": "Classic"
+  },
+  {
+    "name": "SK Warne",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 145,
+    "runs": 3154,
+    "wickets": 708,
+    "average": 17.32,
+    "era": "Classic"
+  },
+  {
+    "name": "Sir RJ Hadlee",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 201,
+    "runs": 4875,
+    "wickets": 589,
+    "average": 27.16,
+    "era": "Classic"
+  },
+  {
+    "name": "IT Botham",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 218,
+    "runs": 7313,
+    "wickets": 528,
+    "average": 33.54,
+    "era": "Classic"
+  },
+  {
+    "name": "CEL Ambrose",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 274,
+    "runs": 2078,
+    "wickets": 630,
+    "average": 12.4,
+    "era": "Classic"
+  },
+  {
+    "name": "A Kumble",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 132,
+    "runs": 2506,
+    "wickets": 619,
+    "average": 17.77,
+    "era": "Classic"
+  },
+  {
+    "name": "MG Johnson",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 256,
+    "runs": 3125,
+    "wickets": 590,
+    "average": 22.2,
+    "era": "Modern"
+  },
+  {
+    "name": "R Ashwin",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 227,
+    "runs": 3183,
+    "wickets": 564,
+    "average": 28.73,
+    "era": "Modern"
+  },
+  {
+    "name": "Imran Khan",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 263,
+    "runs": 3725,
+    "wickets": 544,
+    "average": 2.28,
+    "era": "Modern"
+  },
+  {
+    "name": "AA Donald",
+    "country": "South Africa",
+    "role": "Bowler",
+    "matches": 236,
+    "runs": 747,
+    "wickets": 602,
+    "average": 10.68,
+    "era": "Classic"
+  },
+  {
+    "name": "ST Jayasuriya",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 445,
+    "runs": 13430,
+    "wickets": 323,
+    "average": 32.36,
+    "era": "Modern"
+  },
+  {
+    "name": "MD Marshall",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 217,
+    "runs": 2765,
+    "wickets": 533,
+    "average": 18.85,
+    "era": "Classic"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "matches": 338,
+    "runs": 11752,
+    "wickets": 352,
+    "average": 39.4,
+    "era": "Modern"
+  },
+  {
+    "name": "TG Southee",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 277,
+    "runs": 2558,
+    "wickets": 531,
+    "average": 17.68,
+    "era": "Modern"
+  },
+  {
+    "name": "GD McGrath",
+    "country": "Australia",
+    "role": "Bowler",
+    "matches": 126,
+    "runs": 646,
+    "wickets": 568,
+    "average": 7.36,
+    "era": "Classic"
+  },
+  {
+    "name": "SR Waugh",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 493,
+    "runs": 18496,
+    "wickets": 195,
+    "average": 51.06,
+    "era": "Classic"
+  },
+  {
+    "name": "HMRKB Herath",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 181,
+    "runs": 1847,
+    "wickets": 525,
+    "average": 14.64,
+    "era": "Modern"
+  },
+  {
+    "name": "JH Kallis",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 166,
+    "runs": 13289,
+    "wickets": 292,
+    "average": 55.37,
+    "era": "Modern"
+  },
+  {
+    "name": "Shahid Afridi",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 398,
+    "runs": 8064,
+    "wickets": 395,
+    "average": 23.57,
+    "era": "Modern"
+  },
+  {
+    "name": "M Muralitharan",
+    "country": "Sri Lanka",
+    "role": "Bowler",
+    "matches": 350,
+    "runs": 674,
+    "wickets": 534,
+    "average": 6.8,
+    "era": "Modern"
+  },
+  {
+    "name": "DW Steyn",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 137,
+    "runs": 1267,
+    "wickets": 500,
+    "average": 13.59,
+    "era": "Modern"
+  },
+  {
+    "name": "CJ McDermott",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 209,
+    "runs": 1372,
+    "wickets": 494,
+    "average": 12.2,
+    "era": "Classic"
+  },
+  {
+    "name": "SM Pollock",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 120,
+    "runs": 3867,
+    "wickets": 436,
+    "average": 32.31,
+    "era": "Classic"
+  },
+  {
+    "name": "JH Kallis",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 328,
+    "runs": 11579,
+    "wickets": 273,
+    "average": 44.36,
+    "era": "Modern"
+  },
+  {
+    "name": "Harbhajan Singh",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 131,
+    "runs": 2332,
+    "wickets": 442,
+    "average": 18.22,
+    "era": "Modern"
+  },
+  {
+    "name": "DK Lillee",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 133,
+    "runs": 1145,
+    "wickets": 458,
+    "average": 13.71,
+    "era": "Vintage"
+  },
+  {
+    "name": "TA Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "matches": 181,
+    "runs": 791,
+    "wickets": 459,
+    "average": 14.64,
+    "era": "Modern"
+  },
+  {
+    "name": "TM Dilshan",
+    "country": "Sri Lanka",
+    "role": "Wicket-keeper",
+    "matches": 497,
+    "runs": 17671,
+    "wickets": 115,
+    "average": 40.98,
+    "era": "Modern"
+  },
+  {
+    "name": "SL Malinga",
+    "country": "Sri Lanka",
+    "role": "Bowler",
+    "matches": 335,
+    "runs": 970,
+    "wickets": 444,
+    "average": 11.45,
+    "era": "Modern"
+  },
+  {
+    "name": "SM Pollock",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 303,
+    "runs": 3519,
+    "wickets": 393,
+    "average": 26.45,
+    "era": "Classic"
+  },
+  {
+    "name": "BC Lara",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 430,
+    "runs": 22358,
+    "wickets": 4,
+    "average": 52.88,
+    "era": "Classic"
+  },
+  {
+    "name": "GP Swann",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 178,
+    "runs": 1974,
+    "wickets": 410,
+    "average": 22.09,
+    "era": "Modern"
+  },
+  {
+    "name": "WPUJC Vaas",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 322,
+    "runs": 2025,
+    "wickets": 400,
+    "average": 13.68,
+    "era": "Classic"
+  },
+  {
+    "name": "V Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 401,
+    "runs": 21444,
+    "wickets": 8,
+    "average": 54.97,
+    "era": "Modern"
+  },
+  {
+    "name": "Mohammad Hafeez",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 362,
+    "runs": 12174,
+    "wickets": 193,
+    "average": 37.64,
+    "era": "Modern"
+  },
+  {
+    "name": "SR Watson",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 307,
+    "runs": 10950,
+    "wickets": 216,
+    "average": 35.19,
+    "era": "Modern"
+  },
+  {
+    "name": "S Chanderpaul",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 454,
+    "runs": 20988,
+    "wickets": 14,
+    "average": 51.37,
+    "era": "Modern"
+  },
+  {
+    "name": "JN Gillespie",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 169,
+    "runs": 1531,
+    "wickets": 402,
+    "average": 18.73,
+    "era": "Classic"
+  },
+  {
+    "name": "NM Lyon",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 126,
+    "runs": 1106,
+    "wickets": 410,
+    "average": 12.2,
+    "era": "Modern"
+  },
+  {
+    "name": "I Sharma",
+    "country": "India",
+    "role": "Bowler",
+    "matches": 190,
+    "runs": 783,
+    "wickets": 415,
+    "average": 8.36,
+    "era": "Modern"
+  },
+  {
+    "name": "AR Border",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 429,
+    "runs": 17698,
+    "wickets": 73,
+    "average": 50.56,
+    "era": "Classic"
+  },
+  {
+    "name": "CL Hooper",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 329,
+    "runs": 11523,
+    "wickets": 193,
+    "average": 36.46,
+    "era": "Classic"
+  },
+  {
+    "name": "RGD Willis",
+    "country": "England",
+    "role": "Bowler",
+    "matches": 154,
+    "runs": 923,
+    "wickets": 405,
+    "average": 11.5,
+    "era": "Vintage"
+  },
+  {
+    "name": "WPUJC Vaas",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 117,
+    "runs": 3122,
+    "wickets": 361,
+    "average": 24.32,
+    "era": "Classic"
+  },
+  {
+    "name": "IVA Richards",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 308,
+    "runs": 15261,
+    "wickets": 118,
+    "average": 50.23,
+    "era": "Classic"
+  },
+  {
+    "name": "J Garner",
+    "country": "West Indies",
+    "role": "Bowler",
+    "matches": 156,
+    "runs": 911,
+    "wickets": 405,
+    "average": 12.44,
+    "era": "Vintage"
+  },
+  {
+    "name": "PA de Silva",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 401,
+    "runs": 15645,
+    "wickets": 106,
+    "average": 42.97,
+    "era": "Classic"
+  },
+  {
+    "name": "ME Waugh",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 372,
+    "runs": 16529,
+    "wickets": 85,
+    "average": 41.81,
+    "era": "Classic"
+  },
+  {
+    "name": "MA Holding",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 162,
+    "runs": 1192,
+    "wickets": 391,
+    "average": 13.78,
+    "era": "Vintage"
+  },
+  {
+    "name": "M Ntini",
+    "country": "South Africa",
+    "role": "Bowler",
+    "matches": 111,
+    "runs": 709,
+    "wickets": 396,
+    "average": 9.84,
+    "era": "Classic"
+  },
+  {
+    "name": "MJ Clarke",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 394,
+    "runs": 17112,
+    "wickets": 63,
+    "average": 49.1,
+    "era": "Modern"
+  },
+  {
+    "name": "AD Mathews",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 370,
+    "runs": 12571,
+    "wickets": 152,
+    "average": 43.87,
+    "era": "Modern"
+  },
+  {
+    "name": "GD McGrath",
+    "country": "Australia",
+    "role": "Bowler",
+    "matches": 250,
+    "runs": 115,
+    "wickets": 381,
+    "average": 3.83,
+    "era": "Classic"
+  },
+  {
+    "name": "DJ Bravo",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 270,
+    "runs": 6310,
+    "wickets": 251,
+    "average": 31.42,
+    "era": "Modern"
+  },
+  {
+    "name": "CH Gayle",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 301,
+    "runs": 10480,
+    "wickets": 167,
+    "average": 37.83,
+    "era": "Modern"
+  },
+  {
+    "name": "Abdul Razzaq",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 265,
+    "runs": 5080,
+    "wickets": 269,
+    "average": 29.7,
+    "era": "Modern"
+  },
+  {
+    "name": "Younis Khan",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 408,
+    "runs": 17790,
+    "wickets": 6,
+    "average": 52.05,
+    "era": "Modern"
+  },
+  {
+    "name": "A Kumble",
+    "country": "India",
+    "role": "Bowler",
+    "matches": 271,
+    "runs": 938,
+    "wickets": 337,
+    "average": 10.53,
+    "era": "Classic"
+  },
+  {
+    "name": "Z Khan",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 109,
+    "runs": 1244,
+    "wickets": 328,
+    "average": 11.95,
+    "era": "Modern"
+  },
+  {
+    "name": "J Srinath",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 296,
+    "runs": 1892,
+    "wickets": 315,
+    "average": 14.21,
+    "era": "Classic"
+  },
+  {
+    "name": "DL Underwood",
+    "country": "England",
+    "role": "Bowler",
+    "matches": 112,
+    "runs": 990,
+    "wickets": 329,
+    "average": 11.56,
+    "era": "Vintage"
+  },
+  {
+    "name": "HM Amla",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 305,
+    "runs": 17395,
+    "wickets": 0,
+    "average": 46.64,
+    "era": "Modern"
+  },
+  {
+    "name": "Saleem Malik",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 386,
+    "runs": 12938,
+    "wickets": 89,
+    "average": 43.69,
+    "era": "Classic"
+  },
+  {
+    "name": "Shoaib Malik",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 322,
+    "runs": 9432,
+    "wickets": 158,
+    "average": 35.14,
+    "era": "Modern"
+  },
+  {
+    "name": "LRPL Taylor",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 421,
+    "runs": 17249,
+    "wickets": 0,
+    "average": 46.6,
+    "era": "Modern"
+  },
+  {
+    "name": "NJ Astle",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 308,
+    "runs": 11866,
+    "wickets": 103,
+    "average": 37.02,
+    "era": "Classic"
+  },
+  {
+    "name": "MN Samuels",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 345,
+    "runs": 11134,
+    "wickets": 111,
+    "average": 32.64,
+    "era": "Modern"
+  },
+  {
+    "name": "Javed Miandad",
+    "country": "Pakistan",
+    "role": "Wicket-keeper",
+    "matches": 357,
+    "runs": 16213,
+    "wickets": 7,
+    "average": 52.57,
+    "era": "Classic"
+  },
+  {
+    "name": "A Ranatunga",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 362,
+    "runs": 12561,
+    "wickets": 79,
+    "average": 35.69,
+    "era": "Classic"
+  },
+  {
+    "name": "AB Agarkar",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 221,
+    "runs": 1855,
+    "wickets": 291,
+    "average": 16.79,
+    "era": "Classic"
+  },
+  {
+    "name": "SC Ganguly",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 311,
+    "runs": 11363,
+    "wickets": 100,
+    "average": 41.02,
+    "era": "Classic"
+  },
+  {
+    "name": "M Azharuddin",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 433,
+    "runs": 15593,
+    "wickets": 12,
+    "average": 45.03,
+    "era": "Classic"
+  },
+  {
+    "name": "KS Williamson",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 284,
+    "runs": 14016,
+    "wickets": 43,
+    "average": 51.44,
+    "era": "Modern"
+  },
+  {
+    "name": "DL Haynes",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 354,
+    "runs": 16135,
+    "wickets": 0,
+    "average": 42.29,
+    "era": "Classic"
+  },
+  {
+    "name": "Saqlain Mushtaq",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 218,
+    "runs": 1638,
+    "wickets": 288,
+    "average": 14.48,
+    "era": "Classic"
+  },
+  {
+    "name": "AN Cook",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 257,
+    "runs": 15737,
+    "wickets": 0,
+    "average": 45.35,
+    "era": "Modern"
+  },
+  {
+    "name": "A Flintoff",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 220,
+    "runs": 7239,
+    "wickets": 169,
+    "average": 31.77,
+    "era": "Classic"
+  },
+  {
+    "name": "SK Warne",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 194,
+    "runs": 1018,
+    "wickets": 293,
+    "average": 13.05,
+    "era": "Classic"
+  },
+  {
+    "name": "KD Mills",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 231,
+    "runs": 1473,
+    "wickets": 283,
+    "average": 11.56,
+    "era": "Classic"
+  },
+  {
+    "name": "JE Root",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 264,
+    "runs": 14108,
+    "wickets": 28,
+    "average": 48.41,
+    "era": "Modern"
+  },
+  {
+    "name": "CZ Harris",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 273,
+    "runs": 5156,
+    "wickets": 203,
+    "average": 20.44,
+    "era": "Classic"
+  },
+  {
+    "name": "GW Flower",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "matches": 288,
+    "runs": 10028,
+    "wickets": 104,
+    "average": 29.54,
+    "era": "Classic"
+  },
+  {
+    "name": "KMDN Kulasekara",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 263,
+    "runs": 1933,
+    "wickets": 265,
+    "average": 14.48,
+    "era": "Modern"
+  },
+  {
+    "name": "Mashrafe Mortaza",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "matches": 217,
+    "runs": 1786,
+    "wickets": 266,
+    "average": 13.84,
+    "era": "Modern"
+  },
+  {
+    "name": "L Klusener",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 220,
+    "runs": 5482,
+    "wickets": 192,
+    "average": 32.86,
+    "era": "Classic"
+  },
+  {
+    "name": "CL Cairns",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 215,
+    "runs": 4950,
+    "wickets": 201,
+    "average": 29.46,
+    "era": "Classic"
+  },
+  {
+    "name": "RA Jadeja",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 253,
+    "runs": 4195,
+    "wickets": 216,
+    "average": 35.46,
+    "era": "Modern"
+  },
+  {
+    "name": "GA Gooch",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 243,
+    "runs": 13190,
+    "wickets": 36,
+    "average": 42.58,
+    "era": "Classic"
+  },
+  {
+    "name": "WJ Cronje",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 256,
+    "runs": 9279,
+    "wickets": 114,
+    "average": 36.41,
+    "era": "Classic"
+  },
+  {
+    "name": "PD Collingwood",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 265,
+    "runs": 9351,
+    "wickets": 111,
+    "average": 40.56,
+    "era": "Modern"
+  },
+  {
+    "name": "HH Streak",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "matches": 189,
+    "runs": 2943,
+    "wickets": 239,
+    "average": 28.29,
+    "era": "Classic"
+  },
+  {
+    "name": "Z Khan",
+    "country": "India",
+    "role": "Bowler",
+    "matches": 200,
+    "runs": 792,
+    "wickets": 282,
+    "average": 12.0,
+    "era": "Modern"
+  },
+  {
+    "name": "Harbhajan Singh",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 236,
+    "runs": 1237,
+    "wickets": 269,
+    "average": 13.3,
+    "era": "Modern"
+  },
+  {
+    "name": "BB McCullum",
+    "country": "New Zealand",
+    "role": "Wicket-keeper",
+    "matches": 432,
+    "runs": 14676,
+    "wickets": 0,
+    "average": 38.64,
+    "era": "Modern"
+  },
+  {
+    "name": "HH Gibbs",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 361,
+    "runs": 14661,
+    "wickets": 0,
+    "average": 41.95,
+    "era": "Classic"
+  },
+  {
+    "name": "Umar Gul",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 237,
+    "runs": 1199,
+    "wickets": 264,
+    "average": 9.94,
+    "era": "Modern"
+  },
+  {
+    "name": "SB Styris",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 248,
+    "runs": 6647,
+    "wickets": 155,
+    "average": 36.04,
+    "era": "Classic"
+  },
+  {
+    "name": "Saeed Ajmal",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "matches": 212,
+    "runs": 866,
+    "wickets": 269,
+    "average": 11.0,
+    "era": "Modern"
+  },
+  {
+    "name": "JDP Oram",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 229,
+    "runs": 4688,
+    "wickets": 192,
+    "average": 36.32,
+    "era": "Classic"
+  },
+  {
+    "name": "Yuvraj Singh",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 304,
+    "runs": 8701,
+    "wickets": 111,
+    "average": 36.55,
+    "era": "Modern"
+  },
+  {
+    "name": "KC Sangakkara",
+    "country": "Sri Lanka",
+    "role": "Wicket-keeper",
+    "matches": 404,
+    "runs": 14234,
+    "wickets": 0,
+    "average": 41.98,
+    "era": "Modern"
+  },
+  {
+    "name": "RG Sharma",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 357,
+    "runs": 13718,
+    "wickets": 9,
+    "average": 46.54,
+    "era": "Modern"
+  },
+  {
+    "name": "DA Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 275,
+    "runs": 14157,
+    "wickets": 0,
+    "average": 48.21,
+    "era": "Modern"
+  },
+  {
+    "name": "G Kirsten",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 286,
+    "runs": 14087,
+    "wickets": 0,
+    "average": 45.27,
+    "era": "Classic"
+  },
+  {
+    "name": "Mohammad Nabi",
+    "country": "Afghanistan",
+    "role": "All-rounder",
+    "matches": 202,
+    "runs": 4131,
+    "wickets": 199,
+    "average": 5.5,
+    "era": "Modern"
+  },
+  {
+    "name": "MS Atapattu",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 360,
+    "runs": 14036,
+    "wickets": 0,
+    "average": 39.02,
+    "era": "Classic"
+  },
+  {
+    "name": "A Symonds",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 238,
+    "runs": 6887,
+    "wickets": 141,
+    "average": 40.61,
+    "era": "Classic"
+  },
+  {
+    "name": "RT Ponting",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 375,
+    "runs": 13704,
+    "wickets": 3,
+    "average": 42.03,
+    "era": "Modern"
+  },
+  {
+    "name": "KJ O'Brien",
+    "country": "Ireland",
+    "role": "All-rounder",
+    "matches": 235,
+    "runs": 5252,
+    "wickets": 171,
+    "average": 51.6,
+    "era": "Modern"
+  },
+  {
+    "name": "SPD Smith",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 226,
+    "runs": 11551,
+    "wickets": 45,
+    "average": 62.84,
+    "era": "Modern"
+  },
+  {
+    "name": "KC Sangakkara",
+    "country": "Sri Lanka",
+    "role": "Wicket-keeper",
+    "matches": 190,
+    "runs": 13782,
+    "wickets": 0,
+    "average": 57.4,
+    "era": "Modern"
+  },
+  {
+    "name": "RT Ponting",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 185,
+    "runs": 13779,
+    "wickets": 0,
+    "average": 51.85,
+    "era": "Modern"
+  },
+  {
+    "name": "IR Bell",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 287,
+    "runs": 13331,
+    "wickets": 6,
+    "average": 42.69,
+    "era": "Modern"
+  },
+  {
+    "name": "Abdur Razzak",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "matches": 200,
+    "runs": 1068,
+    "wickets": 251,
+    "average": 15.5,
+    "era": "Modern"
+  },
+  {
+    "name": "Mahmudullah",
+    "country": "Bangladesh",
+    "role": "Wicket-keeper",
+    "matches": 316,
+    "runs": 8163,
+    "wickets": 107,
+    "average": 32.22,
+    "era": "Modern"
+  },
+  {
+    "name": "M Ntini",
+    "country": "South Africa",
+    "role": "Bowler",
+    "matches": 173,
+    "runs": 199,
+    "wickets": 266,
+    "average": 8.65,
+    "era": "Classic"
+  },
+  {
+    "name": "RJ Shastri",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 230,
+    "runs": 6938,
+    "wickets": 129,
+    "average": 35.79,
+    "era": "Classic"
+  },
+  {
+    "name": "DC Boon",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 288,
+    "runs": 13386,
+    "wickets": 0,
+    "average": 43.65,
+    "era": "Classic"
+  },
+  {
+    "name": "DPMD Jayawardene",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 204,
+    "runs": 13307,
+    "wickets": 0,
+    "average": 49.84,
+    "era": "Modern"
+  },
+  {
+    "name": "R Dravid",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 164,
+    "runs": 13288,
+    "wickets": 0,
+    "average": 52.31,
+    "era": "Modern"
+  },
+  {
+    "name": "SM Gavaskar",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 233,
+    "runs": 13214,
+    "wickets": 1,
+    "average": 51.12,
+    "era": "Vintage"
+  },
+  {
+    "name": "Saeed Anwar",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 302,
+    "runs": 12876,
+    "wickets": 6,
+    "average": 45.52,
+    "era": "Classic"
+  },
+  {
+    "name": "AJ Stewart",
+    "country": "England",
+    "role": "Wicket-keeper",
+    "matches": 303,
+    "runs": 13140,
+    "wickets": 0,
+    "average": 39.54,
+    "era": "Classic"
+  },
+  {
+    "name": "V Sehwag",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 251,
+    "runs": 8273,
+    "wickets": 96,
+    "average": 35.05,
+    "era": "Modern"
+  },
+  {
+    "name": "DPMD Jayawardene",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 448,
+    "runs": 12650,
+    "wickets": 8,
+    "average": 33.37,
+    "era": "Modern"
+  },
+  {
+    "name": "GS Chappell",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 161,
+    "runs": 9441,
+    "wickets": 72,
+    "average": 53.86,
+    "era": "Vintage"
+  },
+  {
+    "name": "IK Pathan",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 173,
+    "runs": 2821,
+    "wickets": 201,
+    "average": 31.57,
+    "era": "Classic"
+  },
+  {
+    "name": "RR Sarwan",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 286,
+    "runs": 11944,
+    "wickets": 18,
+    "average": 40.01,
+    "era": "Modern"
+  },
+  {
+    "name": "Shoaib Akhtar",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "matches": 163,
+    "runs": 394,
+    "wickets": 247,
+    "average": 8.95,
+    "era": "Modern"
+  },
+  {
+    "name": "CG Greenidge",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 236,
+    "runs": 12692,
+    "wickets": 1,
+    "average": 44.72,
+    "era": "Classic"
+  },
+  {
+    "name": "MEK Hussey",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 302,
+    "runs": 12398,
+    "wickets": 2,
+    "average": 51.52,
+    "era": "Modern"
+  },
+  {
+    "name": "MA Starc",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 169,
+    "runs": 1853,
+    "wickets": 211,
+    "average": 22.28,
+    "era": "Modern"
+  },
+  {
+    "name": "D Gough",
+    "country": "England",
+    "role": "Bowler",
+    "matches": 159,
+    "runs": 609,
+    "wickets": 235,
+    "average": 12.42,
+    "era": "Classic"
+  },
+  {
+    "name": "Mudassar Nazar",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 198,
+    "runs": 6767,
+    "wickets": 111,
+    "average": 38.09,
+    "era": "Vintage"
+  },
+  {
+    "name": "RB Richardson",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 310,
+    "runs": 12197,
+    "wickets": 1,
+    "average": 44.39,
+    "era": "Classic"
+  },
+  {
+    "name": "Inzamam-ul-Haq",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 378,
+    "runs": 11739,
+    "wickets": 3,
+    "average": 39.52,
+    "era": "Classic"
+  },
+  {
+    "name": "Aamer Sohail",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 203,
+    "runs": 7603,
+    "wickets": 85,
+    "average": 35.28,
+    "era": "Classic"
+  },
+  {
+    "name": "MJ Guptill",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 309,
+    "runs": 11648,
+    "wickets": 4,
+    "average": 29.38,
+    "era": "Modern"
+  },
+  {
+    "name": "MD Crowe",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 220,
+    "runs": 10148,
+    "wickets": 29,
+    "average": 45.36,
+    "era": "Classic"
+  },
+  {
+    "name": "H Masakadza",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "matches": 313,
+    "runs": 9543,
+    "wickets": 41,
+    "average": 30.04,
+    "era": "Modern"
+  },
+  {
+    "name": "JP Duminy",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 283,
+    "runs": 7081,
+    "wickets": 90,
+    "average": 5.0,
+    "era": "Vintage"
+  },
+  {
+    "name": "A Flower",
+    "country": "Zimbabwe",
+    "role": "Wicket-keeper",
+    "matches": 276,
+    "runs": 11580,
+    "wickets": 0,
+    "average": 51.54,
+    "era": "Classic"
+  },
+  {
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "Wicket-keeper",
+    "matches": 369,
+    "runs": 11575,
+    "wickets": 0,
+    "average": 35.08,
+    "era": "Modern"
+  },
+  {
+    "name": "DI Gower",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 231,
+    "runs": 11401,
+    "wickets": 0,
+    "average": 44.25,
+    "era": "Classic"
+  },
+  {
+    "name": "AJ Strauss",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 231,
+    "runs": 11315,
+    "wickets": 0,
+    "average": 40.91,
+    "era": "Modern"
+  },
+  {
+    "name": "BAW Mendis",
+    "country": "Sri Lanka",
+    "role": "Bowler",
+    "matches": 145,
+    "runs": 409,
+    "wickets": 218,
+    "average": 16.38,
+    "era": "Modern"
+  },
+  {
+    "name": "M Prabhakar",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 169,
+    "runs": 3458,
+    "wickets": 157,
+    "average": 32.65,
+    "era": "Classic"
+  },
+  {
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 262,
+    "runs": 11219,
+    "wickets": 0,
+    "average": 38.98,
+    "era": "Modern"
+  },
+  {
+    "name": "Misbah-ul-Haq",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 276,
+    "runs": 11132,
+    "wickets": 0,
+    "average": 46.62,
+    "era": "Modern"
+  },
+  {
+    "name": "VVS Laxman",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 220,
+    "runs": 11119,
+    "wickets": 0,
+    "average": 45.97,
+    "era": "Modern"
+  },
+  {
+    "name": "JO Holder",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 169,
+    "runs": 3807,
+    "wickets": 146,
+    "average": 32.72,
+    "era": "Modern"
+  },
+  {
+    "name": "R Dravid",
+    "country": "India",
+    "role": "Wicket-keeper",
+    "matches": 344,
+    "runs": 10889,
+    "wickets": 4,
+    "average": 39.16,
+    "era": "Modern"
+  },
+  {
+    "name": "MA Taylor",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 217,
+    "runs": 11039,
+    "wickets": 0,
+    "average": 43.49,
+    "era": "Classic"
+  },
+  {
+    "name": "NLTC Perera",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 167,
+    "runs": 2413,
+    "wickets": 171,
+    "average": 20.3,
+    "era": "Modern"
+  },
+  {
+    "name": "MS Dhoni",
+    "country": "India",
+    "role": "Wicket-keeper",
+    "matches": 350,
+    "runs": 10773,
+    "wickets": 1,
+    "average": 50.57,
+    "era": "Modern"
+  },
+  {
+    "name": "BA Stokes",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 178,
+    "runs": 6701,
+    "wickets": 80,
+    "average": 35.72,
+    "era": "Modern"
+  },
+  {
+    "name": "ME Trescothick",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 202,
+    "runs": 10326,
+    "wickets": 4,
+    "average": 43.79,
+    "era": "Classic"
+  },
+  {
+    "name": "DR Martyn",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 279,
+    "runs": 9872,
+    "wickets": 12,
+    "average": 46.37,
+    "era": "Classic"
+  },
+  {
+    "name": "CD McMillan",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 260,
+    "runs": 8010,
+    "wickets": 49,
+    "average": 38.46,
+    "era": "Classic"
+  },
+  {
+    "name": "SK Raina",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 322,
+    "runs": 7988,
+    "wickets": 49,
+    "average": 26.48,
+    "era": "Modern"
+  },
+  {
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "role": "Wicket-keeper",
+    "matches": 192,
+    "runs": 10437,
+    "wickets": 0,
+    "average": 50.66,
+    "era": "Modern"
+  },
+  {
+    "name": "DB Vengsarkar",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 245,
+    "runs": 10376,
+    "wickets": 0,
+    "average": 42.13,
+    "era": "Classic"
+  },
+  {
+    "name": "G Gambhir",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 242,
+    "runs": 10324,
+    "wickets": 0,
+    "average": 41.95,
+    "era": "Modern"
+  },
+  {
+    "name": "AU Rashid",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 158,
+    "runs": 1179,
+    "wickets": 182,
+    "average": 19.28,
+    "era": "Modern"
+  },
+  {
+    "name": "SC Williams",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "matches": 179,
+    "runs": 5091,
+    "wickets": 103,
+    "average": 27.65,
+    "era": "Modern"
+  },
+  {
+    "name": "BKV Prasad",
+    "country": "India",
+    "role": "Bowler",
+    "matches": 194,
+    "runs": 424,
+    "wickets": 196,
+    "average": 7.51,
+    "era": "Classic"
+  },
+  {
+    "name": "DW Steyn",
+    "country": "South Africa",
+    "role": "Bowler",
+    "matches": 125,
+    "runs": 365,
+    "wickets": 196,
+    "average": 9.35,
+    "era": "Modern"
+  },
+  {
+    "name": "Ijaz Ahmed",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 310,
+    "runs": 9879,
+    "wickets": 5,
+    "average": 37.67,
+    "era": "Classic"
+  },
+  {
+    "name": "NW Bracken",
+    "country": "Australia",
+    "role": "Bowler",
+    "matches": 140,
+    "runs": 284,
+    "wickets": 193,
+    "average": 17.5,
+    "era": "Classic"
+  },
+  {
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "role": "Wicket-keeper",
+    "matches": 228,
+    "runs": 9577,
+    "wickets": 7,
+    "average": 53.5,
+    "era": "Modern"
+  },
+  {
+    "name": "CH Lloyd",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 197,
+    "runs": 9492,
+    "wickets": 8,
+    "average": 46.67,
+    "era": "Vintage"
+  },
+  {
+    "name": "CR Woakes",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 139,
+    "runs": 2422,
+    "wickets": 149,
+    "average": 27.26,
+    "era": "Modern"
+  },
+  {
+    "name": "DM Jones",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 216,
+    "runs": 9699,
+    "wickets": 3,
+    "average": 46.55,
+    "era": "Classic"
+  },
+  {
+    "name": "UDU Chandana",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 163,
+    "runs": 2243,
+    "wickets": 151,
+    "average": 26.78,
+    "era": "Classic"
+  },
+  {
+    "name": "Mohammad Yousuf",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 288,
+    "runs": 9720,
+    "wickets": 1,
+    "average": 41.71,
+    "era": "Modern"
+  },
+  {
+    "name": "B Kumar",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 178,
+    "runs": 1101,
+    "wickets": 173,
+    "average": 22.08,
+    "era": "Modern"
+  },
+  {
+    "name": "MM Ali",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 186,
+    "runs": 4783,
+    "wickets": 99,
+    "average": 28.97,
+    "era": "Modern"
+  },
+  {
+    "name": "CH Gayle",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 161,
+    "runs": 8841,
+    "wickets": 17,
+    "average": 42.18,
+    "era": "Modern"
+  },
+  {
+    "name": "TM Odoyo",
+    "country": "Kenya",
+    "role": "All-rounder",
+    "matches": 136,
+    "runs": 2420,
+    "wickets": 145,
+    "average": 23.49,
+    "era": "Modern"
+  },
+  {
+    "name": "M Morkel",
+    "country": "South Africa",
+    "role": "Bowler",
+    "matches": 117,
+    "runs": 268,
+    "wickets": 188,
+    "average": 9.24,
+    "era": "Modern"
+  },
+  {
+    "name": "AC Gilchrist",
+    "country": "Australia",
+    "role": "Wicket-keeper",
+    "matches": 287,
+    "runs": 9619,
+    "wickets": 0,
+    "average": 35.89,
+    "era": "Classic"
+  },
+  {
+    "name": "CRD Fernando",
+    "country": "Sri Lanka",
+    "role": "Bowler",
+    "matches": 147,
+    "runs": 239,
+    "wickets": 187,
+    "average": 9.19,
+    "era": "Modern"
+  },
+  {
+    "name": "P Utseya",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "matches": 203,
+    "runs": 1607,
+    "wickets": 159,
+    "average": 15.28,
+    "era": "Modern"
+  },
+  {
+    "name": "MA Atherton",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 169,
+    "runs": 9519,
+    "wickets": 0,
+    "average": 37.69,
+    "era": "Classic"
+  },
+  {
+    "name": "MG Bevan",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 250,
+    "runs": 7697,
+    "wickets": 36,
+    "average": 29.07,
+    "era": "Classic"
+  },
+  {
+    "name": "Aaqib Javed",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "matches": 185,
+    "runs": 368,
+    "wickets": 182,
+    "average": 5.05,
+    "era": "Classic"
+  },
+  {
+    "name": "BRM Taylor",
+    "country": "Zimbabwe",
+    "role": "Wicket-keeper",
+    "matches": 259,
+    "runs": 8951,
+    "wickets": 10,
+    "average": 35.38,
+    "era": "Modern"
+  },
+  {
+    "name": "G Boycott",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 144,
+    "runs": 9196,
+    "wickets": 5,
+    "average": 47.72,
+    "era": "Vintage"
+  },
+  {
+    "name": "KP Pietersen",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 141,
+    "runs": 9357,
+    "wickets": 1,
+    "average": 47.28,
+    "era": "Modern"
+  },
+  {
+    "name": "F du Plessis",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 205,
+    "runs": 9306,
+    "wickets": 2,
+    "average": 41.29,
+    "era": "Modern"
+  },
+  {
+    "name": "E Chigumbura",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "matches": 213,
+    "runs": 4340,
+    "wickets": 101,
+    "average": 25.23,
+    "era": "Modern"
+  },
+  {
+    "name": "S Dhawan",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 225,
+    "runs": 9337,
+    "wickets": 0,
+    "average": 40.61,
+    "era": "Modern"
+  },
+  {
+    "name": "GJ Whittall",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "matches": 193,
+    "runs": 4912,
+    "wickets": 88,
+    "average": 29.42,
+    "era": "Classic"
+  },
+  {
+    "name": "JE Taylor",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 166,
+    "runs": 1252,
+    "wickets": 161,
+    "average": 12.96,
+    "era": "Modern"
+  },
+  {
+    "name": "GC Smith",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 117,
+    "runs": 9265,
+    "wickets": 0,
+    "average": 48.25,
+    "era": "Modern"
+  },
+  {
+    "name": "JG Wright",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 231,
+    "runs": 9225,
+    "wickets": 0,
+    "average": 37.82,
+    "era": "Classic"
+  },
+  {
+    "name": "GP Thorpe",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 182,
+    "runs": 9124,
+    "wickets": 2,
+    "average": 44.66,
+    "era": "Classic"
+  },
+  {
+    "name": "GB Hogg",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 145,
+    "runs": 1031,
+    "wickets": 163,
+    "average": 26.57,
+    "era": "Classic"
+  },
+  {
+    "name": "Mushtaq Ahmed",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 196,
+    "runs": 1055,
+    "wickets": 161,
+    "average": 11.71,
+    "era": "Classic"
+  },
+  {
+    "name": "GH Dockrell",
+    "country": "Ireland",
+    "role": "Bowler",
+    "matches": 161,
+    "runs": 894,
+    "wickets": 164,
+    "average": 32.0,
+    "era": "Modern"
+  },
+  {
+    "name": "SE Bond",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "matches": 120,
+    "runs": 481,
+    "wickets": 172,
+    "average": 12.92,
+    "era": "Classic"
+  },
+  {
+    "name": "AG Cremer",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "matches": 144,
+    "runs": 1352,
+    "wickets": 154,
+    "average": 16.36,
+    "era": "Modern"
+  },
+  {
+    "name": "PR Stirling",
+    "country": "Ireland",
+    "role": "All-rounder",
+    "matches": 189,
+    "runs": 6071,
+    "wickets": 59,
+    "average": 17.33,
+    "era": "Modern"
+  },
+  {
+    "name": "HDPK Dharmasena",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 172,
+    "runs": 2090,
+    "wickets": 138,
+    "average": 19.72,
+    "era": "Classic"
+  },
+  {
+    "name": "Imran Tahir",
+    "country": "South Africa",
+    "role": "Bowler",
+    "matches": 127,
+    "runs": 287,
+    "wickets": 173,
+    "average": 9.28,
+    "era": "Modern"
+  },
+  {
+    "name": "ML Hayden",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 112,
+    "runs": 8933,
+    "wickets": 0,
+    "average": 50.73,
+    "era": "Classic"
+  },
+  {
+    "name": "LE Plunkett",
+    "country": "England",
+    "role": "Bowler",
+    "matches": 124,
+    "runs": 926,
+    "wickets": 160,
+    "average": 15.86,
+    "era": "Modern"
+  },
+  {
+    "name": "Inzamam-ul-Haq",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 120,
+    "runs": 8830,
+    "wickets": 0,
+    "average": 49.6,
+    "era": "Classic"
+  },
+  {
+    "name": "PV Simmons",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 169,
+    "runs": 4677,
+    "wickets": 83,
+    "average": 22.26,
+    "era": "Classic"
+  },
+  {
+    "name": "MF Maharoof",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 139,
+    "runs": 1702,
+    "wickets": 142,
+    "average": 18.53,
+    "era": "Modern"
+  },
+  {
+    "name": "GA Hick",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 185,
+    "runs": 7229,
+    "wickets": 30,
+    "average": 31.32,
+    "era": "Classic"
+  },
+  {
+    "name": "Rameez Raja",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 255,
+    "runs": 8674,
+    "wickets": 0,
+    "average": 31.83,
+    "era": "Classic"
+  },
+  {
+    "name": "AJ Lamb",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 201,
+    "runs": 8666,
+    "wickets": 0,
+    "average": 36.09,
+    "era": "Classic"
+  },
+  {
+    "name": "DJ Cullinan",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 208,
+    "runs": 8414,
+    "wickets": 5,
+    "average": 44.21,
+    "era": "Classic"
+  },
+  {
+    "name": "ADR Campbell",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 248,
+    "runs": 8043,
+    "wickets": 12,
+    "average": 27.21,
+    "era": "Classic"
+  },
+  {
+    "name": "HP Tillakaratne",
+    "country": "Sri Lanka",
+    "role": "Wicket-keeper",
+    "matches": 283,
+    "runs": 8334,
+    "wickets": 6,
+    "average": 42.87,
+    "era": "Classic"
+  },
+  {
+    "name": "Q de Kock",
+    "country": "South Africa",
+    "role": "Wicket-keeper",
+    "matches": 197,
+    "runs": 8608,
+    "wickets": 0,
+    "average": 38.88,
+    "era": "Modern"
+  },
+  {
+    "name": "M Amarnath",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 154,
+    "runs": 6302,
+    "wickets": 46,
+    "average": 42.5,
+    "era": "Vintage"
+  },
+  {
+    "name": "GJ Maxwell",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 178,
+    "runs": 4792,
+    "wickets": 76,
+    "average": 26.07,
+    "era": "Modern"
+  },
+  {
+    "name": "V Sehwag",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 104,
+    "runs": 8586,
+    "wickets": 0,
+    "average": 49.34,
+    "era": "Modern"
+  },
+  {
+    "name": "Azhar Mahmood",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 164,
+    "runs": 2421,
+    "wickets": 123,
+    "average": 30.0,
+    "era": "Classic"
+  },
+  {
+    "name": "ST Jayasuriya",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 141,
+    "runs": 7602,
+    "wickets": 19,
+    "average": 40.07,
+    "era": "Classic"
+  },
+  {
+    "name": "MP Vaughan",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 170,
+    "runs": 7728,
+    "wickets": 16,
+    "average": 41.44,
+    "era": "Classic"
+  },
+  {
+    "name": "JN Rhodes",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 297,
+    "runs": 8467,
+    "wickets": 0,
+    "average": 35.66,
+    "era": "Classic"
+  },
+  {
+    "name": "Wahab Riaz",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 147,
+    "runs": 1131,
+    "wickets": 145,
+    "average": 8.5,
+    "era": "Modern"
+  },
+  {
+    "name": "Dawlat Zadran",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "matches": 116,
+    "runs": 581,
+    "wickets": 155,
+    "average": 17.68,
+    "era": "Modern"
+  },
+  {
+    "name": "TT Bresnan",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 142,
+    "runs": 1662,
+    "wickets": 133,
+    "average": 26.13,
+    "era": "Modern"
+  },
+  {
+    "name": "Abdul Qadir",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 171,
+    "runs": 1670,
+    "wickets": 132,
+    "average": 15.59,
+    "era": "Classic"
+  },
+  {
+    "name": "LD Chandimal",
+    "country": "Sri Lanka",
+    "role": "Wicket-keeper",
+    "matches": 255,
+    "runs": 8245,
+    "wickets": 0,
+    "average": 41.35,
+    "era": "Modern"
+  },
+  {
+    "name": "Mohammad Amir",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 145,
+    "runs": 1173,
+    "wickets": 140,
+    "average": 13.41,
+    "era": "Modern"
+  },
+  {
+    "name": "SO Tikolo",
+    "country": "Kenya",
+    "role": "All-rounder",
+    "matches": 135,
+    "runs": 3428,
+    "wickets": 94,
+    "average": 29.05,
+    "era": "Modern"
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "matches": 106,
+    "runs": 177,
+    "wickets": 159,
+    "average": 4.3,
+    "era": "Modern"
+  },
+  {
+    "name": "Rubel Hossain",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "matches": 154,
+    "runs": 416,
+    "wickets": 154,
+    "average": 9.96,
+    "era": "Modern"
+  },
+  {
+    "name": "K Rabada",
+    "country": "South Africa",
+    "role": "Bowler",
+    "matches": 137,
+    "runs": 850,
+    "wickets": 145,
+    "average": 11.72,
+    "era": "Modern"
+  },
+  {
+    "name": "N Hussain",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 184,
+    "runs": 8096,
+    "wickets": 0,
+    "average": 37.18,
+    "era": "Classic"
+  },
+  {
+    "name": "SP Fleming",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 280,
+    "runs": 8037,
+    "wickets": 1,
+    "average": 32.4,
+    "era": "Classic"
+  },
+  {
+    "name": "WB Rankin",
+    "country": "England",
+    "role": "Bowler",
+    "matches": 124,
+    "runs": 193,
+    "wickets": 157,
+    "average": 8.6,
+    "era": "Modern"
+  },
+  {
+    "name": "R Rampaul",
+    "country": "West Indies",
+    "role": "Bowler",
+    "matches": 133,
+    "runs": 709,
+    "wickets": 146,
+    "average": 14.56,
+    "era": "Modern"
+  },
+  {
+    "name": "A Nehra",
+    "country": "India",
+    "role": "Bowler",
+    "matches": 120,
+    "runs": 141,
+    "wickets": 157,
+    "average": 5.64,
+    "era": "Modern"
+  },
+  {
+    "name": "Zaheer Abbas",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 140,
+    "runs": 7634,
+    "wickets": 7,
+    "average": 44.79,
+    "era": "Vintage"
+  },
+  {
+    "name": "Azhar Ali",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 130,
+    "runs": 7730,
+    "wickets": 4,
+    "average": 42.64,
+    "era": "Modern"
+  },
+  {
+    "name": "Mohammad Sami",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "matches": 136,
+    "runs": 822,
+    "wickets": 142,
+    "average": 11.59,
+    "era": "Modern"
+  },
+  {
+    "name": "KAJ Roach",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 159,
+    "runs": 1201,
+    "wickets": 134,
+    "average": 12.19,
+    "era": "Modern"
+  },
+  {
+    "name": "GC Smith",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 197,
+    "runs": 6989,
+    "wickets": 18,
+    "average": 37.98,
+    "era": "Modern"
+  },
+  {
+    "name": "Mohammed Shami",
+    "country": "India",
+    "role": "Bowler",
+    "matches": 128,
+    "runs": 589,
+    "wickets": 146,
+    "average": 11.04,
+    "era": "Modern"
+  },
+  {
+    "name": "JL Langer",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 113,
+    "runs": 7856,
+    "wickets": 0,
+    "average": 45.27,
+    "era": "Classic"
+  },
+  {
+    "name": "MJ Santner",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 130,
+    "runs": 1902,
+    "wickets": 118,
+    "average": 25.55,
+    "era": "Modern"
+  },
+  {
+    "name": "RP Arnold",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 225,
+    "runs": 5778,
+    "wickets": 40,
+    "average": 28.01,
+    "era": "Classic"
+  },
+  {
+    "name": "SP Narine",
+    "country": "West Indies",
+    "role": "Bowler",
+    "matches": 122,
+    "runs": 558,
+    "wickets": 144,
+    "average": 8.0,
+    "era": "Modern"
+  },
+  {
+    "name": "JJ Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "matches": 112,
+    "runs": 45,
+    "wickets": 154,
+    "average": 2.0,
+    "era": "Modern"
+  },
+  {
+    "name": "RS Mahanama",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 265,
+    "runs": 7738,
+    "wickets": 0,
+    "average": 29.27,
+    "era": "Classic"
+  },
+  {
+    "name": "AP Gurusinha",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 188,
+    "runs": 6354,
+    "wickets": 26,
+    "average": 38.92,
+    "era": "Classic"
+  },
+  {
+    "name": "MC Cowdrey",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 115,
+    "runs": 7625,
+    "wickets": 0,
+    "average": 44.06,
+    "era": "Vintage"
+  },
+  {
+    "name": "NS Sidhu",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 187,
+    "runs": 7615,
+    "wickets": 0,
+    "average": 42.13,
+    "era": "Classic"
+  },
+  {
+    "name": "JEC Franklin",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 179,
+    "runs": 2541,
+    "wickets": 101,
+    "average": 20.71,
+    "era": "Modern"
+  },
+  {
+    "name": "JM Bairstow",
+    "country": "England",
+    "role": "Wicket-keeper",
+    "matches": 178,
+    "runs": 7494,
+    "wickets": 0,
+    "average": 34.74,
+    "era": "Modern"
+  },
+  {
+    "name": "DS Lehmann",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 144,
+    "runs": 4876,
+    "wickets": 52,
+    "average": 44.95,
+    "era": "Classic"
+  },
+  {
+    "name": "KA Pollard",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 175,
+    "runs": 3456,
+    "wickets": 80,
+    "average": 26.06,
+    "era": "Modern"
+  },
+  {
+    "name": "AM Rahane",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 173,
+    "runs": 7449,
+    "wickets": 0,
+    "average": 43.74,
+    "era": "Modern"
+  },
+  {
+    "name": "Mohammad Rafique",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "matches": 125,
+    "runs": 1191,
+    "wickets": 125,
+    "average": 13.38,
+    "era": "Classic"
+  },
+  {
+    "name": "WD Parnell",
+    "country": "South Africa",
+    "role": "Bowler",
+    "matches": 111,
+    "runs": 689,
+    "wickets": 135,
+    "average": 16.75,
+    "era": "Modern"
+  },
+  {
+    "name": "NL McCullum",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 147,
+    "runs": 1369,
+    "wickets": 121,
+    "average": 20.98,
+    "era": "Modern"
+  },
+  {
+    "name": "K Srikkanth",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 189,
+    "runs": 6153,
+    "wickets": 25,
+    "average": 29.88,
+    "era": "Classic"
+  },
+  {
+    "name": "Sikandar Raza",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "matches": 141,
+    "runs": 3880,
+    "wickets": 70,
+    "average": 34.08,
+    "era": "Modern"
+  },
+  {
+    "name": "PAJ DeFreitas",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 147,
+    "runs": 1624,
+    "wickets": 115,
+    "average": 14.82,
+    "era": "Classic"
+  },
+  {
+    "name": "JC Adams",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 181,
+    "runs": 5216,
+    "wickets": 43,
+    "average": 41.26,
+    "era": "Classic"
+  },
+  {
+    "name": "EJG Morgan",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 233,
+    "runs": 7348,
+    "wickets": 0,
+    "average": 39.71,
+    "era": "Modern"
+  },
+  {
+    "name": "PJ Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "matches": 112,
+    "runs": 908,
+    "wickets": 128,
+    "average": 17.27,
+    "era": "Modern"
+  },
+  {
+    "name": "EJ Chatfield",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "matches": 157,
+    "runs": 298,
+    "wickets": 140,
+    "average": 8.57,
+    "era": "Vintage"
+  },
+  {
+    "name": "SP Fleming",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 116,
+    "runs": 7282,
+    "wickets": 0,
+    "average": 40.06,
+    "era": "Classic"
+  },
+  {
+    "name": "M Dillon",
+    "country": "West Indies",
+    "role": "Bowler",
+    "matches": 146,
+    "runs": 776,
+    "wickets": 130,
+    "average": 8.44,
+    "era": "Classic"
+  },
+  {
+    "name": "DJG Sammy",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 164,
+    "runs": 3194,
+    "wickets": 81,
+    "average": 21.68,
+    "era": "Modern"
+  },
+  {
+    "name": "JV Coney",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 140,
+    "runs": 4542,
+    "wickets": 54,
+    "average": 37.57,
+    "era": "Vintage"
+  },
+  {
+    "name": "SC Ganguly",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 113,
+    "runs": 7212,
+    "wickets": 0,
+    "average": 42.17,
+    "era": "Classic"
+  },
+  {
+    "name": "GR Marsh",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 167,
+    "runs": 7211,
+    "wickets": 0,
+    "average": 33.18,
+    "era": "Classic"
+  },
+  {
+    "name": "DW Fleming",
+    "country": "Australia",
+    "role": "Bowler",
+    "matches": 108,
+    "runs": 457,
+    "wickets": 134,
+    "average": 19.06,
+    "era": "Classic"
+  },
+  {
+    "name": "JC Buttler",
+    "country": "England",
+    "role": "Wicket-keeper",
+    "matches": 246,
+    "runs": 7149,
+    "wickets": 0,
+    "average": 33.0,
+    "era": "Modern"
+  },
+  {
+    "name": "KC Wessels",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 149,
+    "runs": 6155,
+    "wickets": 18,
+    "average": 41.0,
+    "era": "Classic"
+  },
+  {
+    "name": "MW Gatting",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 171,
+    "runs": 6504,
+    "wickets": 10,
+    "average": 35.55,
+    "era": "Classic"
+  },
+  {
+    "name": "WU Tharanga",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 235,
+    "runs": 6951,
+    "wickets": 0,
+    "average": 33.74,
+    "era": "Modern"
+  },
+  {
+    "name": "IR Bishop",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 127,
+    "runs": 1037,
+    "wickets": 118,
+    "average": 12.15,
+    "era": "Classic"
+  },
+  {
+    "name": "A Jadeja",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 211,
+    "runs": 5935,
+    "wickets": 20,
+    "average": 26.18,
+    "era": "Classic"
+  },
+  {
+    "name": "WW Hinds",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 169,
+    "runs": 5518,
+    "wickets": 28,
+    "average": 33.01,
+    "era": "Classic"
+  },
+  {
+    "name": "AJ Finch",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 182,
+    "runs": 6715,
+    "wickets": 4,
+    "average": 27.8,
+    "era": "Modern"
+  },
+  {
+    "name": "IJL Trott",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 127,
+    "runs": 6792,
+    "wickets": 2,
+    "average": 44.08,
+    "era": "Modern"
+  },
+  {
+    "name": "ST Finn",
+    "country": "England",
+    "role": "Bowler",
+    "matches": 126,
+    "runs": 429,
+    "wickets": 129,
+    "average": 11.16,
+    "era": "Modern"
+  },
+  {
+    "name": "TT Samaraweera",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 134,
+    "runs": 6324,
+    "wickets": 11,
+    "average": 48.76,
+    "era": "Modern"
+  },
+  {
+    "name": "Kamran Akmal",
+    "country": "Pakistan",
+    "role": "Wicket-keeper",
+    "matches": 268,
+    "runs": 6871,
+    "wickets": 0,
+    "average": 30.79,
+    "era": "Modern"
+  },
+  {
+    "name": "Sohail Tanvir",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "matches": 121,
+    "runs": 612,
+    "wickets": 125,
+    "average": 5.66,
+    "era": "Classic"
+  },
+  {
+    "name": "DK Morrison",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "matches": 144,
+    "runs": 550,
+    "wickets": 126,
+    "average": 8.42,
+    "era": "Classic"
+  },
+  {
+    "name": "RAS Lakmal",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 155,
+    "runs": 1055,
+    "wickets": 115,
+    "average": 11.48,
+    "era": "Modern"
+  },
+  {
+    "name": "BJ Haddin",
+    "country": "Australia",
+    "role": "Wicket-keeper",
+    "matches": 226,
+    "runs": 6790,
+    "wickets": 0,
+    "average": 32.98,
+    "era": "Modern"
+  },
+  {
+    "name": "RS Bopara",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 171,
+    "runs": 3981,
+    "wickets": 56,
+    "average": 31.94,
+    "era": "Modern"
+  },
+  {
+    "name": "PR Reiffel",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 127,
+    "runs": 1458,
+    "wickets": 106,
+    "average": 26.52,
+    "era": "Classic"
+  },
+  {
+    "name": "PA Strang",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "matches": 119,
+    "runs": 1929,
+    "wickets": 96,
+    "average": 27.06,
+    "era": "Classic"
+  },
+  {
+    "name": "DM Bravo",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 184,
+    "runs": 6685,
+    "wickets": 0,
+    "average": 37.69,
+    "era": "Modern"
+  },
+  {
+    "name": "RA Smith",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 133,
+    "runs": 6655,
+    "wickets": 0,
+    "average": 43.67,
+    "era": "Classic"
+  },
+  {
+    "name": "HA Gomes",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 143,
+    "runs": 4586,
+    "wickets": 41,
+    "average": 39.63,
+    "era": "Vintage"
+  },
+  {
+    "name": "AJ Hall",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 111,
+    "runs": 1676,
+    "wickets": 98,
+    "average": 26.2,
+    "era": "Classic"
+  },
+  {
+    "name": "MC Snedden",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "matches": 118,
+    "runs": 862,
+    "wickets": 114,
+    "average": 14.86,
+    "era": "Classic"
+  },
+  {
+    "name": "GR Viswanath",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 116,
+    "runs": 6519,
+    "wickets": 0,
+    "average": 41.93,
+    "era": "Vintage"
+  },
+  {
+    "name": "Samiullah Shinwari",
+    "country": "Afghanistan",
+    "role": "All-rounder",
+    "matches": 146,
+    "runs": 2796,
+    "wickets": 74,
+    "average": 29.2,
+    "era": "Modern"
+  },
+  {
+    "name": "MS Dhoni",
+    "country": "India",
+    "role": "Wicket-keeper",
+    "matches": 188,
+    "runs": 6493,
+    "wickets": 0,
+    "average": 38.09,
+    "era": "Modern"
+  },
+  {
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 135,
+    "runs": 6471,
+    "wickets": 0,
+    "average": 42.67,
+    "era": "Modern"
+  },
+  {
+    "name": "GR Larsen",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "matches": 129,
+    "runs": 756,
+    "wickets": 113,
+    "average": 14.11,
+    "era": "Classic"
+  },
+  {
+    "name": "HH Pandya",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 105,
+    "runs": 1799,
+    "wickets": 92,
+    "average": 31.29,
+    "era": "Modern"
+  },
+  {
+    "name": "RA Harper",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 130,
+    "runs": 1390,
+    "wickets": 100,
+    "average": 18.44,
+    "era": "Classic"
+  },
+  {
+    "name": "KJ Hughes",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 167,
+    "runs": 6383,
+    "wickets": 0,
+    "average": 37.41,
+    "era": "Vintage"
+  },
+  {
+    "name": "DR Tuffey",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "matches": 123,
+    "runs": 727,
+    "wickets": 113,
+    "average": 16.42,
+    "era": "Modern"
+  },
+  {
+    "name": "BL Cairns",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 121,
+    "runs": 1915,
+    "wickets": 89,
+    "average": 16.28,
+    "era": "Vintage"
+  },
+  {
+    "name": "GP Wickramasinghe",
+    "country": "Sri Lanka",
+    "role": "Bowler",
+    "matches": 174,
+    "runs": 899,
+    "wickets": 109,
+    "average": 9.4,
+    "era": "Classic"
+  },
+  {
+    "name": "RW Price",
+    "country": "Zimbabwe",
+    "role": "Bowler",
+    "matches": 140,
+    "runs": 682,
+    "wickets": 113,
+    "average": 8.7,
+    "era": "Modern"
+  },
+  {
+    "name": "BM McMillan",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 116,
+    "runs": 2809,
+    "wickets": 70,
+    "average": 39.36,
+    "era": "Classic"
+  },
+  {
+    "name": "MJ Slater",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 116,
+    "runs": 6299,
+    "wickets": 0,
+    "average": 42.83,
+    "era": "Classic"
+  },
+  {
+    "name": "CB Mpofu",
+    "country": "Zimbabwe",
+    "role": "Bowler",
+    "matches": 128,
+    "runs": 186,
+    "wickets": 122,
+    "average": 5.83,
+    "era": "Modern"
+  },
+  {
+    "name": "TL Chatara",
+    "country": "Zimbabwe",
+    "role": "Bowler",
+    "matches": 100,
+    "runs": 270,
+    "wickets": 120,
+    "average": 6.42,
+    "era": "Modern"
+  },
+  {
+    "name": "TWM Latham",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 157,
+    "runs": 6267,
+    "wickets": 0,
+    "average": 42.81,
+    "era": "Modern"
+  },
+  {
+    "name": "AD Russell",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 104,
+    "runs": 1501,
+    "wickets": 95,
+    "average": 2.0,
+    "era": "Modern"
+  },
+  {
+    "name": "N Boje",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 115,
+    "runs": 1414,
+    "wickets": 96,
+    "average": 26.67,
+    "era": "Classic"
+  },
+  {
+    "name": "AC Parore",
+    "country": "New Zealand",
+    "role": "Wicket-keeper",
+    "matches": 257,
+    "runs": 6179,
+    "wickets": 0,
+    "average": 26.28,
+    "era": "Classic"
+  },
+  {
+    "name": "UT Yadav",
+    "country": "India",
+    "role": "Bowler",
+    "matches": 127,
+    "runs": 420,
+    "wickets": 115,
+    "average": 12.1,
+    "era": "Modern"
+  },
+  {
+    "name": "ML Hayden",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 161,
+    "runs": 6133,
+    "wickets": 0,
+    "average": 43.8,
+    "era": "Classic"
+  },
+  {
+    "name": "IA Healy",
+    "country": "Australia",
+    "role": "Wicket-keeper",
+    "matches": 287,
+    "runs": 6120,
+    "wickets": 0,
+    "average": 27.39,
+    "era": "Classic"
+  },
+  {
+    "name": "KR Rutherford",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 177,
+    "runs": 5608,
+    "wickets": 10,
+    "average": 27.08,
+    "era": "Classic"
+  },
+  {
+    "name": "RJ Peterson",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 115,
+    "runs": 1144,
+    "wickets": 99,
+    "average": 27.29,
+    "era": "Modern"
+  },
+  {
+    "name": "Junaid Khan",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "matches": 107,
+    "runs": 193,
+    "wickets": 118,
+    "average": 7.17,
+    "era": "Modern"
+  },
+  {
+    "name": "RD Berrington",
+    "country": "Scotland",
+    "role": "All-rounder",
+    "matches": 139,
+    "runs": 3129,
+    "wickets": 59,
+    "average": 28.08,
+    "era": "Modern"
+  },
+  {
+    "name": "KD Walters",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 102,
+    "runs": 5870,
+    "wickets": 4,
+    "average": 48.26,
+    "era": "Vintage"
+  },
+  {
+    "name": "Asad Shafiq",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 143,
+    "runs": 6056,
+    "wickets": 0,
+    "average": 39.03,
+    "era": "Modern"
+  },
+  {
+    "name": "DNT Zoysa",
+    "country": "Sri Lanka",
+    "role": "Bowler",
+    "matches": 125,
+    "runs": 631,
+    "wickets": 108,
+    "average": 8.47,
+    "era": "Classic"
+  },
+  {
+    "name": "JE Emburey",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 125,
+    "runs": 2214,
+    "wickets": 76,
+    "average": 22.53,
+    "era": "Classic"
+  },
+  {
+    "name": "Moin Khan",
+    "country": "Pakistan",
+    "role": "Wicket-keeper",
+    "matches": 288,
+    "runs": 6007,
+    "wickets": 0,
+    "average": 28.55,
+    "era": "Classic"
+  },
+  {
+    "name": "AH Jones",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 126,
+    "runs": 5706,
+    "wickets": 4,
+    "average": 44.27,
+    "era": "Classic"
+  },
+  {
+    "name": "Umar Akmal",
+    "country": "Pakistan",
+    "role": "Wicket-keeper",
+    "matches": 221,
+    "runs": 5887,
+    "wickets": 0,
+    "average": 35.82,
+    "era": "Modern"
+  },
+  {
+    "name": "JR Ratnayeke",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "matches": 100,
+    "runs": 1631,
+    "wickets": 85,
+    "average": 25.21,
+    "era": "Vintage"
+  },
+  {
+    "name": "A Nel",
+    "country": "South Africa",
+    "role": "Bowler",
+    "matches": 117,
+    "runs": 464,
+    "wickets": 108,
+    "average": 9.91,
+    "era": "Classic"
+  },
+  {
+    "name": "DR Smith",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 148,
+    "runs": 2462,
+    "wickets": 68,
+    "average": 24.61,
+    "era": "Classic"
+  },
+  {
+    "name": "AC Gilchrist",
+    "country": "Australia",
+    "role": "Wicket-keeper",
+    "matches": 109,
+    "runs": 5842,
+    "wickets": 0,
+    "average": 47.6,
+    "era": "Classic"
+  },
+  {
+    "name": "RR Singh",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 137,
+    "runs": 2363,
+    "wickets": 69,
+    "average": 13.5,
+    "era": "Classic"
+  },
+  {
+    "name": "Sarfaraz Ahmed",
+    "country": "Pakistan",
+    "role": "Wicket-keeper",
+    "matches": 223,
+    "runs": 5771,
+    "wickets": 0,
+    "average": 36.39,
+    "era": "Modern"
+  },
+  {
+    "name": "PM Seelaar",
+    "country": "NL",
+    "role": "Bowler",
+    "matches": 110,
+    "runs": 619,
+    "wickets": 103,
+    "average": 11.07,
+    "era": "Modern"
+  },
+  {
+    "name": "WKM Benjamin",
+    "country": "West Indies",
+    "role": "Bowler",
+    "matches": 106,
+    "runs": 768,
+    "wickets": 100,
+    "average": 18.8,
+    "era": "Classic"
+  },
+  {
+    "name": "D Ramdin",
+    "country": "West Indies",
+    "role": "Wicket-keeper",
+    "matches": 284,
+    "runs": 5734,
+    "wickets": 0,
+    "average": 25.87,
+    "era": "Modern"
+  },
+  {
+    "name": "GF Lawson",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 125,
+    "runs": 1272,
+    "wickets": 88,
+    "average": 15.96,
+    "era": "Vintage"
+  },
+  {
+    "name": "RS Kaluwitharana",
+    "country": "Sri Lanka",
+    "role": "Wicket-keeper",
+    "matches": 238,
+    "runs": 5644,
+    "wickets": 0,
+    "average": 26.12,
+    "era": "Classic"
+  },
+  {
+    "name": "CO Obuya",
+    "country": "Kenya",
+    "role": "All-rounder",
+    "matches": 139,
+    "runs": 2735,
+    "wickets": 58,
+    "average": 25.55,
+    "era": "Modern"
+  },
+  {
+    "name": "GM Wood",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 142,
+    "runs": 5593,
+    "wickets": 0,
+    "average": 31.83,
+    "era": "Vintage"
+  },
+  {
+    "name": "CJ Chibhabha",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "matches": 139,
+    "runs": 3134,
+    "wickets": 49,
+    "average": 20.66,
+    "era": "Modern"
+  },
+  {
+    "name": "SM Katich",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 104,
+    "runs": 5581,
+    "wickets": 0,
+    "average": 45.03,
+    "era": "Modern"
+  },
+  {
+    "name": "SL Campbell",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 142,
+    "runs": 5165,
+    "wickets": 8,
+    "average": 32.38,
+    "era": "Classic"
+  },
+  {
+    "name": "MV Boucher",
+    "country": "South Africa",
+    "role": "Wicket-keeper",
+    "matches": 147,
+    "runs": 5515,
+    "wickets": 0,
+    "average": 30.3,
+    "era": "Modern"
+  },
+  {
+    "name": "MJ Prior",
+    "country": "England",
+    "role": "Wicket-keeper",
+    "matches": 157,
+    "runs": 5508,
+    "wickets": 0,
+    "average": 40.18,
+    "era": "Modern"
+  },
+  {
+    "name": "KLT Arthurton",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "matches": 138,
+    "runs": 3286,
+    "wickets": 42,
+    "average": 30.71,
+    "era": "Classic"
+  },
+  {
+    "name": "AME Roberts",
+    "country": "West Indies",
+    "role": "Bowler",
+    "matches": 103,
+    "runs": 993,
+    "wickets": 87,
+    "average": 14.94,
+    "era": "Vintage"
+  },
+  {
+    "name": "SE Marsh",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 126,
+    "runs": 5293,
+    "wickets": 0,
+    "average": 34.31,
+    "era": "Modern"
+  },
+  {
+    "name": "AL Logie",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 210,
+    "runs": 5279,
+    "wickets": 0,
+    "average": 35.79,
+    "era": "Classic"
+  },
+  {
+    "name": "PS de Villiers",
+    "country": "South Africa",
+    "role": "Bowler",
+    "matches": 101,
+    "runs": 529,
+    "wickets": 95,
+    "average": 18.89,
+    "era": "Classic"
+  },
+  {
+    "name": "PJL Dujon",
+    "country": "West Indies",
+    "role": "Wicket-keeper",
+    "matches": 250,
+    "runs": 5267,
+    "wickets": 0,
+    "average": 31.94,
+    "era": "Classic"
+  },
+  {
+    "name": "Gulbadin Naib",
+    "country": "Afghanistan",
+    "role": "All-rounder",
+    "matches": 110,
+    "runs": 1513,
+    "wickets": 75,
+    "average": 21.68,
+    "era": "Modern"
+  },
+  {
+    "name": "Habibul Bashar",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 161,
+    "runs": 5194,
+    "wickets": 1,
+    "average": 30.87,
+    "era": "Classic"
+  },
+  {
+    "name": "BKG Mendis",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 139,
+    "runs": 5223,
+    "wickets": 0,
+    "average": 35.15,
+    "era": "Modern"
+  },
+  {
+    "name": "Salman Butt",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 135,
+    "runs": 5209,
+    "wickets": 0,
+    "average": 30.46,
+    "era": "Modern"
+  },
+  {
+    "name": "WTS Porterfield",
+    "country": "Ireland",
+    "role": "Batsman",
+    "matches": 200,
+    "runs": 5174,
+    "wickets": 0,
+    "average": 9.66,
+    "era": "Modern"
+  },
+  {
+    "name": "Ahmed Shehzad",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 153,
+    "runs": 5058,
+    "wickets": 2,
+    "average": 40.91,
+    "era": "Modern"
+  },
+  {
+    "name": "S Madan Lal",
+    "country": "India",
+    "role": "All-rounder",
+    "matches": 106,
+    "runs": 1443,
+    "wickets": 73,
+    "average": 22.65,
+    "era": "Vintage"
+  },
+  {
+    "name": "HDRL Thirimanne",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 188,
+    "runs": 4889,
+    "wickets": 3,
+    "average": 22.64,
+    "era": "Modern"
+  },
+  {
+    "name": "PL Symcox",
+    "country": "South Africa",
+    "role": "All-rounder",
+    "matches": 100,
+    "runs": 1435,
+    "wickets": 72,
+    "average": 28.5,
+    "era": "Classic"
+  },
+  {
+    "name": "Shoaib Mohammad",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 108,
+    "runs": 3974,
+    "wickets": 20,
+    "average": 44.34,
+    "era": "Classic"
+  },
+  {
+    "name": "ND McKenzie",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 124,
+    "runs": 4948,
+    "wickets": 0,
+    "average": 37.39,
+    "era": "Classic"
+  },
+  {
+    "name": "RW Marsh",
+    "country": "Australia",
+    "role": "Wicket-keeper",
+    "matches": 188,
+    "runs": 4858,
+    "wickets": 0,
+    "average": 26.51,
+    "era": "Vintage"
+  },
+  {
+    "name": "MDKJ Perera",
+    "country": "Sri Lanka",
+    "role": "Wicket-keeper",
+    "matches": 158,
+    "runs": 4844,
+    "wickets": 0,
+    "average": 31.13,
+    "era": "Modern"
+  },
+  {
+    "name": "PW Borren",
+    "country": "NL",
+    "role": "All-rounder",
+    "matches": 101,
+    "runs": 1642,
+    "wickets": 64,
+    "average": 22.31,
+    "era": "Modern"
+  },
+  {
+    "name": "RM Hogg",
+    "country": "Australia",
+    "role": "Bowler",
+    "matches": 109,
+    "runs": 576,
+    "wickets": 85,
+    "average": 9.75,
+    "era": "Vintage"
+  },
+  {
+    "name": "KP Pietersen",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 136,
+    "runs": 4440,
+    "wickets": 7,
+    "average": 40.73,
+    "era": "Modern"
+  },
+  {
+    "name": "SD Hope",
+    "country": "West Indies",
+    "role": "Wicket-keeper",
+    "matches": 116,
+    "runs": 4743,
+    "wickets": 0,
+    "average": 27.23,
+    "era": "Modern"
+  },
+  {
+    "name": "Mohammad Shahzad",
+    "country": "Afghanistan",
+    "role": "Wicket-keeper",
+    "matches": 151,
+    "runs": 4732,
+    "wickets": 0,
+    "average": 17.25,
+    "era": "Modern"
+  },
+  {
+    "name": "MV Boucher",
+    "country": "South Africa",
+    "role": "Wicket-keeper",
+    "matches": 295,
+    "runs": 4686,
+    "wickets": 0,
+    "average": 28.57,
+    "era": "Modern"
+  },
+  {
+    "name": "Wasim Raja",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 111,
+    "runs": 3603,
+    "wickets": 21,
+    "average": 36.16,
+    "era": "Vintage"
+  },
+  {
+    "name": "AD Hales",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 141,
+    "runs": 4636,
+    "wickets": 0,
+    "average": 27.28,
+    "era": "Modern"
+  },
+  {
+    "name": "Mohsin Khan",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 123,
+    "runs": 4586,
+    "wickets": 1,
+    "average": 37.1,
+    "era": "Vintage"
+  },
+  {
+    "name": "TM Alderman",
+    "country": "Australia",
+    "role": "Bowler",
+    "matches": 106,
+    "runs": 235,
+    "wickets": 88,
+    "average": 6.54,
+    "era": "Classic"
+  },
+  {
+    "name": "APE Knott",
+    "country": "England",
+    "role": "Wicket-keeper",
+    "matches": 115,
+    "runs": 4589,
+    "wickets": 0,
+    "average": 32.75,
+    "era": "Vintage"
+  },
+  {
+    "name": "AC Hudson",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 124,
+    "runs": 4566,
+    "wickets": 0,
+    "average": 33.45,
+    "era": "Classic"
+  },
+  {
+    "name": "AR Caddick",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 116,
+    "runs": 1110,
+    "wickets": 69,
+    "average": 10.37,
+    "era": "Classic"
+  },
+  {
+    "name": "AF Giles",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 116,
+    "runs": 1806,
+    "wickets": 55,
+    "average": 20.89,
+    "era": "Classic"
+  },
+  {
+    "name": "DJ Nash",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 113,
+    "runs": 1353,
+    "wickets": 64,
+    "average": 23.51,
+    "era": "Classic"
+  },
+  {
+    "name": "Imran Farhat",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 105,
+    "runs": 4195,
+    "wickets": 6,
+    "average": 32.0,
+    "era": "Modern"
+  },
+  {
+    "name": "CD Collymore",
+    "country": "West Indies",
+    "role": "Bowler",
+    "matches": 114,
+    "runs": 301,
+    "wickets": 83,
+    "average": 7.88,
+    "era": "Classic"
+  },
+  {
+    "name": "RD Jacobs",
+    "country": "West Indies",
+    "role": "Wicket-keeper",
+    "matches": 212,
+    "runs": 4442,
+    "wickets": 0,
+    "average": 28.31,
+    "era": "Classic"
+  },
+  {
+    "name": "JR Hazlewood",
+    "country": "Australia",
+    "role": "Bowler",
+    "matches": 102,
+    "runs": 439,
+    "wickets": 80,
+    "average": 12.18,
+    "era": "Modern"
+  },
+  {
+    "name": "Sarfraz Nawaz",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 100,
+    "runs": 1266,
+    "wickets": 63,
+    "average": 17.71,
+    "era": "Vintage"
+  },
+  {
+    "name": "DJ Hussey",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 108,
+    "runs": 2552,
+    "wickets": 37,
+    "average": 32.65,
+    "era": "Modern"
+  },
+  {
+    "name": "Mohammad Ashraful",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 177,
+    "runs": 3468,
+    "wickets": 18,
+    "average": 22.23,
+    "era": "Modern"
+  },
+  {
+    "name": "NV Knight",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 117,
+    "runs": 4356,
+    "wickets": 0,
+    "average": 23.96,
+    "era": "Classic"
+  },
+  {
+    "name": "SV Carlisle",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 148,
+    "runs": 4355,
+    "wickets": 0,
+    "average": 26.91,
+    "era": "Classic"
+  },
+  {
+    "name": "Imrul Kayes",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 131,
+    "runs": 4350,
+    "wickets": 0,
+    "average": 24.28,
+    "era": "Modern"
+  },
+  {
+    "name": "JJ Roy",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 121,
+    "runs": 4311,
+    "wickets": 0,
+    "average": 18.7,
+    "era": "Modern"
+  },
+  {
+    "name": "FH Edwards",
+    "country": "West Indies",
+    "role": "Bowler",
+    "matches": 125,
+    "runs": 477,
+    "wickets": 76,
+    "average": 6.56,
+    "era": "Modern"
+  },
+  {
+    "name": "Nasir Hossain",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "matches": 115,
+    "runs": 2695,
+    "wickets": 31,
+    "average": 34.8,
+    "era": "Modern"
+  },
+  {
+    "name": "MJ Greatbatch",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 125,
+    "runs": 4227,
+    "wickets": 0,
+    "average": 30.62,
+    "era": "Classic"
+  },
+  {
+    "name": "BJ Watling",
+    "country": "New Zealand",
+    "role": "Wicket-keeper",
+    "matches": 100,
+    "runs": 4227,
+    "wickets": 0,
+    "average": 39.73,
+    "era": "Modern"
+  },
+  {
+    "name": "KJ Coetzer",
+    "country": "Scotland",
+    "role": "Batsman",
+    "matches": 117,
+    "runs": 3795,
+    "wickets": 6,
+    "average": 43.8,
+    "era": "Modern"
+  },
+  {
+    "name": "SV Manjrekar",
+    "country": "India",
+    "role": "Wicket-keeper",
+    "matches": 111,
+    "runs": 4037,
+    "wickets": 1,
+    "average": 37.14,
+    "era": "Classic"
+  },
+  {
+    "name": "Soumya Sarkar",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 116,
+    "runs": 3337,
+    "wickets": 15,
+    "average": 29.21,
+    "era": "Modern"
+  },
+  {
+    "name": "DN Patel",
+    "country": "New Zealand",
+    "role": "All-rounder",
+    "matches": 112,
+    "runs": 1823,
+    "wickets": 45,
+    "average": 20.68,
+    "era": "Classic"
+  },
+  {
+    "name": "GP Howarth",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 117,
+    "runs": 3915,
+    "wickets": 3,
+    "average": 32.44,
+    "era": "Vintage"
+  },
+  {
+    "name": "CR Ervine",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 130,
+    "runs": 3973,
+    "wickets": 0,
+    "average": 33.6,
+    "era": "Modern"
+  },
+  {
+    "name": "Asghar Afghan",
+    "country": "Afghanistan",
+    "role": "Batsman",
+    "matches": 181,
+    "runs": 3772,
+    "wickets": 4,
+    "average": 35.57,
+    "era": "Modern"
+  },
+  {
+    "name": "L Vincent",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 134,
+    "runs": 3919,
+    "wickets": 1,
+    "average": 34.15,
+    "era": "Classic"
+  },
+  {
+    "name": "CS MacLeod",
+    "country": "Scotland",
+    "role": "Batsman",
+    "matches": 115,
+    "runs": 3217,
+    "wickets": 13,
+    "average": 37.5,
+    "era": "Modern"
+  },
+  {
+    "name": "N Dickwella",
+    "country": "Sri Lanka",
+    "role": "Wicket-keeper",
+    "matches": 110,
+    "runs": 3857,
+    "wickets": 0,
+    "average": 30.95,
+    "era": "Modern"
+  },
+  {
+    "name": "CL White",
+    "country": "Australia",
+    "role": "All-rounder",
+    "matches": 142,
+    "runs": 3202,
+    "wickets": 13,
+    "average": 29.2,
+    "era": "Classic"
+  },
+  {
+    "name": "BA Edgar",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 103,
+    "runs": 3772,
+    "wickets": 0,
+    "average": 30.59,
+    "era": "Vintage"
+  },
+  {
+    "name": "BA Young",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 109,
+    "runs": 3702,
+    "wickets": 0,
+    "average": 31.78,
+    "era": "Classic"
+  },
+  {
+    "name": "Shoaib Malik",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "matches": 111,
+    "runs": 2263,
+    "wickets": 28,
+    "average": 30.58,
+    "era": "Modern"
+  },
+  {
+    "name": "VG Kambli",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 121,
+    "runs": 3561,
+    "wickets": 1,
+    "average": 54.2,
+    "era": "Classic"
+  },
+  {
+    "name": "JR Thomson",
+    "country": "Australia",
+    "role": "Bowler",
+    "matches": 101,
+    "runs": 860,
+    "wickets": 55,
+    "average": 12.81,
+    "era": "Vintage"
+  },
+  {
+    "name": "LMP Simmons",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 125,
+    "runs": 3226,
+    "wickets": 7,
+    "average": 17.37,
+    "era": "Modern"
+  },
+  {
+    "name": "RG Twose",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 103,
+    "runs": 3345,
+    "wickets": 4,
+    "average": 25.12,
+    "era": "Classic"
+  },
+  {
+    "name": "T Taibu",
+    "country": "Zimbabwe",
+    "role": "Wicket-keeper",
+    "matches": 150,
+    "runs": 3393,
+    "wickets": 2,
+    "average": 29.25,
+    "era": "Modern"
+  },
+  {
+    "name": "Shahriar Nafees",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 100,
+    "runs": 3493,
+    "wickets": 0,
+    "average": 26.39,
+    "era": "Modern"
+  },
+  {
+    "name": "S Matsikenyeri",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 131,
+    "runs": 2651,
+    "wickets": 16,
+    "average": 23.4,
+    "era": "Classic"
+  },
+  {
+    "name": "MS Wade",
+    "country": "Australia",
+    "role": "Wicket-keeper",
+    "matches": 151,
+    "runs": 3434,
+    "wickets": 0,
+    "average": 31.51,
+    "era": "Modern"
+  },
+  {
+    "name": "HH Dippenaar",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 107,
+    "runs": 3421,
+    "wickets": 0,
+    "average": 42.23,
+    "era": "Classic"
+  },
+  {
+    "name": "C Munro",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 118,
+    "runs": 2832,
+    "wickets": 11,
+    "average": 7.5,
+    "era": "Modern"
+  },
+  {
+    "name": "M Kaif",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 138,
+    "runs": 3377,
+    "wickets": 0,
+    "average": 32.84,
+    "era": "Classic"
+  },
+  {
+    "name": "Aftab Ahmed",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 112,
+    "runs": 2764,
+    "wickets": 12,
+    "average": 20.78,
+    "era": "Modern"
+  },
+  {
+    "name": "GC Wilson",
+    "country": "Ireland",
+    "role": "Wicket-keeper",
+    "matches": 185,
+    "runs": 3356,
+    "wickets": 0,
+    "average": 15.0,
+    "era": "Modern"
+  },
+  {
+    "name": "Khaled Mashud",
+    "country": "Bangladesh",
+    "role": "Wicket-keeper",
+    "matches": 170,
+    "runs": 3227,
+    "wickets": 0,
+    "average": 19.04,
+    "era": "Classic"
+  },
+  {
+    "name": "Sabbir Rahman",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 121,
+    "runs": 2760,
+    "wickets": 9,
+    "average": 24.05,
+    "era": "Modern"
+  },
+  {
+    "name": "Tauseef Ahmed",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "matches": 104,
+    "runs": 434,
+    "wickets": 55,
+    "average": 17.66,
+    "era": "Classic"
+  },
+  {
+    "name": "V Sibanda",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 127,
+    "runs": 2994,
+    "wickets": 3,
+    "average": 24.54,
+    "era": "Modern"
+  },
+  {
+    "name": "SMH Kirmani",
+    "country": "India",
+    "role": "Wicket-keeper",
+    "matches": 137,
+    "runs": 3132,
+    "wickets": 0,
+    "average": 27.04,
+    "era": "Vintage"
+  },
+  {
+    "name": "JJ Crowe",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 114,
+    "runs": 3119,
+    "wickets": 0,
+    "average": 26.24,
+    "era": "Classic"
+  },
+  {
+    "name": "LJ Wright",
+    "country": "England",
+    "role": "All-rounder",
+    "matches": 101,
+    "runs": 1466,
+    "wickets": 33,
+    "average": 20.2,
+    "era": "Modern"
+  },
+  {
+    "name": "Rashid Latif",
+    "country": "Pakistan",
+    "role": "Wicket-keeper",
+    "matches": 203,
+    "runs": 3090,
+    "wickets": 0,
+    "average": 28.77,
+    "era": "Classic"
+  },
+  {
+    "name": "NJ O'Brien",
+    "country": "Ireland",
+    "role": "Wicket-keeper",
+    "matches": 134,
+    "runs": 3065,
+    "wickets": 0,
+    "average": 9.0,
+    "era": "Modern"
+  },
+  {
+    "name": "DA Miller",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 126,
+    "runs": 3058,
+    "wickets": 0,
+    "average": 38.7,
+    "era": "Modern"
+  },
+  {
+    "name": "MN Waller",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 125,
+    "runs": 2449,
+    "wickets": 10,
+    "average": 21.37,
+    "era": "Modern"
+  },
+  {
+    "name": "Imran Nazir",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 112,
+    "runs": 2822,
+    "wickets": 1,
+    "average": 32.84,
+    "era": "Classic"
+  },
+  {
+    "name": "IDS Smith",
+    "country": "New Zealand",
+    "role": "Wicket-keeper",
+    "matches": 161,
+    "runs": 2870,
+    "wickets": 0,
+    "average": 25.56,
+    "era": "Classic"
+  },
+  {
+    "name": "LRD Mendis",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 103,
+    "runs": 2856,
+    "wickets": 0,
+    "average": 31.64,
+    "era": "Vintage"
+  },
+  {
+    "name": "A Balbirnie",
+    "country": "Ireland",
+    "role": "Batsman",
+    "matches": 104,
+    "runs": 2749,
+    "wickets": 2,
+    "average": 24.33,
+    "era": "Modern"
+  },
+  {
+    "name": "CK Kapugedera",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 153,
+    "runs": 2745,
+    "wickets": 2,
+    "average": 34.83,
+    "era": "Classic"
+  },
+  {
+    "name": "CB Wishart",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 117,
+    "runs": 2817,
+    "wickets": 0,
+    "average": 22.4,
+    "era": "Classic"
+  },
+  {
+    "name": "KD Karthik",
+    "country": "India",
+    "role": "Wicket-keeper",
+    "matches": 120,
+    "runs": 2777,
+    "wickets": 0,
+    "average": 25.0,
+    "era": "Modern"
+  },
+  {
+    "name": "NR Mongia",
+    "country": "India",
+    "role": "Wicket-keeper",
+    "matches": 184,
+    "runs": 2714,
+    "wickets": 0,
+    "average": 24.03,
+    "era": "Classic"
+  },
+  {
+    "name": "EJG Morgan",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 102,
+    "runs": 2702,
+    "wickets": 0,
+    "average": 30.43,
+    "era": "Modern"
+  },
+  {
+    "name": "RL Powell",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 111,
+    "runs": 2138,
+    "wickets": 11,
+    "average": 17.66,
+    "era": "Classic"
+  },
+  {
+    "name": "DD Ebrahim",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 111,
+    "runs": 2668,
+    "wickets": 0,
+    "average": 22.68,
+    "era": "Classic"
+  },
+  {
+    "name": "Najibullah Zadran",
+    "country": "Afghanistan",
+    "role": "Batsman",
+    "matches": 124,
+    "runs": 2504,
+    "wickets": 0,
+    "average": 29.92,
+    "era": "Modern"
+  },
+  {
+    "name": "LPC Silva",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 102,
+    "runs": 2299,
+    "wickets": 2,
+    "average": 33.56,
+    "era": "Classic"
+  },
+  {
+    "name": "DJ Richardson",
+    "country": "South Africa",
+    "role": "Wicket-keeper",
+    "matches": 164,
+    "runs": 2227,
+    "wickets": 0,
+    "average": 24.26,
+    "era": "Classic"
+  },
+  {
+    "name": "KS More",
+    "country": "India",
+    "role": "Wicket-keeper",
+    "matches": 143,
+    "runs": 1848,
+    "wickets": 0,
+    "average": 25.7,
+    "era": "Classic"
+  },
+  {
+    "name": "Saleem Yousuf",
+    "country": "Pakistan",
+    "role": "Wicket-keeper",
+    "matches": 118,
+    "runs": 1823,
+    "wickets": 0,
+    "average": 27.05,
+    "era": "Classic"
+  },
+  {
+    "name": "MA Ouma",
+    "country": "Kenya",
+    "role": "Batsman",
+    "matches": 102,
+    "runs": 1628,
+    "wickets": 0,
+    "average": 20.84,
+    "era": "Modern"
+  },
+  {
+    "name": "Wasim Bari",
+    "country": "Pakistan",
+    "role": "Wicket-keeper",
+    "matches": 132,
+    "runs": 1587,
+    "wickets": 0,
+    "average": 15.88,
+    "era": "Vintage"
+  }
+]
